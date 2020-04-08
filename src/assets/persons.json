@@ -11428,6 +11428,22 @@
       "country": "India"
     }
   },
+  {
+  "id": 808,
+  "name": "Michael Mueller",
+  "img": "https://avatars3.githubusercontent.com/u/23622118",
+  "links": {
+    "website": "https://mikemueller.dev",
+    "linkedin": "https://www.linkedin.com/in/muellermdev/",
+    "github": "https://github.com/MikkelMulr"
+  },
+  "jobTitle": "Front-end Developer",
+  "location": {
+    "city": "Toronto",
+    "state": "Ontario",
+    "country": "Canada"
+    }
+  },
   ]
 }
   ,{
@@ -11444,20 +11460,4 @@
       "city": "Milwaukee",
       "state": "Wisconsin",
       "country": "United States"
-    },
-    {
-    "id": 807,
-    "name": "Michael Mueller",
-    "img": "https://avatars3.githubusercontent.com/u/23622118",
-    "links": {
-      "website": "https://mikemueller.dev",
-      "linkedin": "https://www.linkedin.com/in/muellermdev/",
-      "github": "https://github.com/MikkelMulr"
-    },
-    "jobTitle": "Front-end Developer",
-    "location": {
-      "city": "Toronto",
-      "state": "Ontario",
-      "country": "Canada"
-    }
   }
